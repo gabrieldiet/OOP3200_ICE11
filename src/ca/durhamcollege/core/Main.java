@@ -1,3 +1,11 @@
+/***
+ * @Name: Gabriel Dietrich
+ * @Date: 12-02-2020
+ * Code modified from professor Tom
+ *
+ */
+
+
 package ca.durhamcollege.core;
 
 import ca.durhamcollege.utility.*;
